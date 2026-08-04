@@ -2,6 +2,12 @@
     {
         "user_id": 7574799177,
         "username": "@lin_young7",
-        "profile_link": "t.me/lin_young7"
+        "profile_link": "t.me/lin_young7",
+        "is_main": false
+    },
+    {
+        "user_id": 7652944647,
+        "username": "@phoonghon962008",
+        "profile_link": "t.me/phoonghon962008"
     }
 ]
